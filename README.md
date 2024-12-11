@@ -40,11 +40,16 @@ Este es un proyecto abierto a la comunidad. Si deseas colaborar:
 2. **Proporciona mejoras** enviando un [pull request](https://github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/pulls).  
 3. **Contacta directamente** para sugerencias o dudas a: **nicolas@obvio.tech**  
 
-Tu participación es fundamental para mantener este recurso actualizado y útil para todos. 🚀
+Tu participación es fundamental para mantener este recurso actualizado y útil para todos. 🚀☁
 
 ---
 
 ## 🌟 Créditos
 
-Curso desarrollado por **Nicolás Lecaros** y el equipo de [Aprende.Cloud](https://aprende.cloud).  
-¡Gracias por ser parte de esta comunidad en crecimiento! 💡
+Este curso ha sido desarrollado por:
+
+[Nicolás Lecaros](http://nicolaslecaros.com): Creador y principal desarrollador de contenido del curso, experto en Google Cloud y apasionado por la democratización del conocimiento tecnológico.
+[Nicole Paine](http://nicolepaine.cl): Anfitriona de los videos en directo, facilitando una experiencia interactiva y dinámica para los estudiantes.
+Además, agradecemos el generoso apoyo de [OBVIO.TECH](https://obvio.tech), que hizo posible el auspicio de premios para nuestros participantes.
+
+🙏 ¡Gracias por ser parte de esta comunidad en constante crecimiento! Juntos seguimos aprendiendo y compartiendo. 💙
