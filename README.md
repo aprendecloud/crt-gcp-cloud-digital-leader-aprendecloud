@@ -36,8 +36,8 @@ Sigue el curso en YouTube y explora cada lección en el siguiente orden:
 
 Este es un proyecto abierto a la comunidad. Si deseas colaborar:  
 
-1. **Reporta un problema** creando un [issue](https://github.com/tu-repositorio/issues).  
-2. **Proporciona mejoras** enviando un [pull request](https://github.com/tu-repositorio/pulls).  
+1. **Reporta un problema** creando un [issue](https://github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/issues).  
+2. **Proporciona mejoras** enviando un [pull request](https://github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/pulls).  
 3. **Contacta directamente** para sugerencias o dudas a: **nicolas@obvio.tech**  
 
 Tu participación es fundamental para mantener este recurso actualizado y útil para todos. 🚀
