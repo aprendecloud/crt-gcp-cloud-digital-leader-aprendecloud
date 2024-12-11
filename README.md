@@ -48,8 +48,9 @@ Tu participación es fundamental para mantener este recurso actualizado y útil 
 
 Este curso ha sido desarrollado por:
 
-[Nicolás Lecaros](http://nicolaslecaros.com): Creador y principal desarrollador de contenido del curso, experto en Google Cloud y apasionado por la democratización del conocimiento tecnológico.
-[Nicole Paine](http://nicolepaine.cl): Anfitriona de los videos en directo, facilitando una experiencia interactiva y dinámica para los estudiantes.
-Además, agradecemos el generoso apoyo de [OBVIO.TECH](https://obvio.tech), que hizo posible el auspicio de premios para nuestros participantes.
+[Nicolás Lecaros](https://www.linkedin.com/in/nicolaslecaros/): Creador y principal desarrollador de contenido del curso, experto en Google Cloud y apasionado por la democratización del conocimiento tecnológico.
+
+[Nicole Paine](https://www.linkedin.com/in/nicolepainem/): Anfitriona de los videos en directo, facilitando una experiencia interactiva y dinámica para los estudiantes.
+Además, agradecemos el generoso apoyo de [OBVIO.TECH](https://www.obvio.tech/), que hizo posible el auspicio de premios para nuestros participantes.
 
 🙏 ¡Gracias por ser parte de esta comunidad en constante crecimiento! Juntos seguimos aprendiendo y compartiendo. 💙
