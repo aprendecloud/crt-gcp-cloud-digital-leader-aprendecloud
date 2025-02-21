@@ -14,6 +14,26 @@ El repositorio está organizado en carpetas según las lecciones del curso. En c
 
 ---
 
+## 📂 Directorios
+
+El repositorio está organizado en carpetas según las lecciones del curso. En cada carpeta encontrarás:
+
+1. [Cómo Convertirse en un Cloud Digital Leader]([https://www.github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/[1.01.001] Como Convertirse en un Cloud Digital Leader/teórico](https://github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/tree/8d273b6c372af2097ec793e623335be374cd3127/%5B1.01.001%5D%20Como%20Convertirse%20en%20un%20Cloud%20Digital%20Leader))  
+2. [Transformación Digital con Google Cloud]()  
+3. [Resumen 1: Google Cloud Digital Leader]()  
+4. [Explorando la Transformación de Datos con Google Cloud]()  
+5. [Innovando con la Inteligencia Artificial de Google Cloud]()  
+6. [Resumen 2: Google Cloud Digital Leader]()  
+7. [Modernizando Infraestructura y Aplicaciones con Google Cloud]()  
+8. [Confianza y Seguridad con Google Cloud]()  
+9. [Resumen 3: Google Cloud Digital Leader]()  
+10. [Escalamiento con Google Cloud Operations]()  
+11. [Resumen y Cierre del Programa]()
+12. [Preguntas y Respuestas Tipo Examen]()
+13. [¡Soy un Cloud Digital Leader! ¡Me certifiqué y te ayudo a lograrlo!]()
+
+---
+
 ## 🎥 Videos del Curso
 
 Sigue el curso en YouTube y explora cada lección en el siguiente orden:
@@ -28,7 +48,9 @@ Sigue el curso en YouTube y explora cada lección en el siguiente orden:
 8. [Confianza y Seguridad con Google Cloud](https://www.youtube.com/watch?v=DVTCVZxwVVU)  
 9. [Resumen 3: Google Cloud Digital Leader](https://www.youtube.com/watch?v=DJXwRITtFE8)  
 10. [Escalamiento con Google Cloud Operations](https://www.youtube.com/watch?v=TvUGFjN0afU)  
-11. [Resumen y Cierre del Programa](https://www.youtube.com/watch?v=fupdEbomagg)  
+11. [Resumen y Cierre del Programa](https://www.youtube.com/watch?v=fupdEbomagg)
+12. [Preguntas y Respuestas Tipo Examen](https://www.youtube.com/watch?v=sJ6SM5uTWMg)
+13. [¡Soy un Cloud Digital Leader! ¡Me certifiqué y te ayudo a lograrlo!](https://www.youtube.com/watch?v=tzBDj-MUeGM)
 
 ---
 
@@ -55,4 +77,4 @@ Este curso ha sido desarrollado por:
 Además, agradecemos el generoso apoyo de [OBVIO.TECH](https://www.obvio.tech/), que hizo posible el auspicio de premios para nuestros participantes.
 
 
-🙏 ¡Gracias por ser parte de esta comunidad en constante crecimiento! Juntos seguimos aprendiendo y compartiendo. 💙
+🙏 ¡Gracias por ser parte de esta comunidad en constante crecimiento! Juntos seguimos aprendiendo y compartiendo. 💙🚀☁
