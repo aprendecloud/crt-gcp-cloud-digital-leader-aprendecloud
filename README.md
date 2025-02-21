@@ -18,7 +18,7 @@ El repositorio está organizado en carpetas según las lecciones del curso. En c
 
 El repositorio está organizado en carpetas según las lecciones del curso. En cada carpeta encontrarás:
 
-1. [Cómo Convertirse en un Cloud Digital Leader]([https://www.github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/[1.01.001] Como Convertirse en un Cloud Digital Leader/teórico](https://github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/tree/8d273b6c372af2097ec793e623335be374cd3127/%5B1.01.001%5D%20Como%20Convertirse%20en%20un%20Cloud%20Digital%20Leader))  
+1. [Cómo Convertirse en un Cloud Digital Leader](https://github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/tree/8d273b6c372af2097ec793e623335be374cd3127/%5B1.01.001%5D%20Como%20Convertirse%20en%20un%20Cloud%20Digital%20Leader)
 2. [Transformación Digital con Google Cloud]()  
 3. [Resumen 1: Google Cloud Digital Leader]()  
 4. [Explorando la Transformación de Datos con Google Cloud]()  
