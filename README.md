@@ -9,8 +9,8 @@
 
 El repositorio está organizado en carpetas según las lecciones del curso. En cada carpeta encontrarás:
 
-- **`teórico/`**: Documentos en formato PDF que resumen los conceptos clave.
-- **`práctico/`**: Códigos de ejemplo, datasets y scripts para reforzar los conceptos aprendidos.
+- Documentos en formato PDF que resumen los conceptos clave.
+- Códigos de ejemplo, datasets y scripts para reforzar los conceptos aprendidos.
 
 ---
 
@@ -18,19 +18,19 @@ El repositorio está organizado en carpetas según las lecciones del curso. En c
 
 El repositorio está organizado en carpetas según las lecciones del curso. En cada carpeta encontrarás:
 
-1. [Cómo Convertirse en un Cloud Digital Leader](https://github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/tree/8d273b6c372af2097ec793e623335be374cd3127/%5B1.01.001%5D%20Como%20Convertirse%20en%20un%20Cloud%20Digital%20Leader)
-2. [Transformación Digital con Google Cloud]()  
-3. [Resumen 1: Google Cloud Digital Leader]()  
-4. [Explorando la Transformación de Datos con Google Cloud]()  
-5. [Innovando con la Inteligencia Artificial de Google Cloud]()  
-6. [Resumen 2: Google Cloud Digital Leader]()  
-7. [Modernizando Infraestructura y Aplicaciones con Google Cloud]()  
-8. [Confianza y Seguridad con Google Cloud]()  
-9. [Resumen 3: Google Cloud Digital Leader]()  
-10. [Escalamiento con Google Cloud Operations]()  
-11. [Resumen y Cierre del Programa]()
-12. [Preguntas y Respuestas Tipo Examen]()
-13. [¡Soy un Cloud Digital Leader! ¡Me certifiqué y te ayudo a lograrlo!]()
+1. [Cómo Convertirse en un Cloud Digital Leader](ep-01-crt-gcp-cloud-digital-leader-aprendecloud/)
+2. [Transformación Digital con Google Cloud](ep-02-crt-gcp-cloud-digital-leader-aprendecloud/)  
+3. [Resumen 1: Google Cloud Digital Leader](ep-03-crt-gcp-cloud-digital-leader-aprendecloud/)  
+4. [Explorando la Transformación de Datos con Google Cloud](ep-04-crt-gcp-cloud-digital-leader-aprendecloud/)  
+5. [Innovando con la Inteligencia Artificial de Google Cloud](ep-05-crt-gcp-cloud-digital-leader-aprendecloud/)  
+6. [Resumen 2: Google Cloud Digital Leader](ep-06-crt-gcp-cloud-digital-leader-aprendecloud/)  
+7. [Modernizando Infraestructura y Aplicaciones con Google Cloud](ep-07-crt-gcp-cloud-digital-leader-aprendecloud/)  
+8. [Confianza y Seguridad con Google Cloud](ep-08-crt-gcp-cloud-digital-leader-aprendecloud/)  
+9. [Resumen 3: Google Cloud Digital Leader](ep-09-crt-gcp-cloud-digital-leader-aprendecloud/)  
+10. [Escalamiento con Google Cloud Operations](ep-10-crt-gcp-cloud-digital-leader-aprendecloud/)  
+11. [Resumen y Cierre del Programa](ep-11-crt-gcp-cloud-digital-leader-aprendecloud/)
+12. [Preguntas y Respuestas Tipo Examen](ep-12-crt-gcp-cloud-digital-leader-aprendecloud/)
+13. [¡Soy un Cloud Digital Leader! ¡Me certifiqué y te ayudo a lograrlo!](ep-13-crt-gcp-cloud-digital-leader-aprendecloud/)
 
 ---
 
@@ -60,7 +60,7 @@ Este es un proyecto abierto a la comunidad. Si deseas colaborar:
 
 1. **Reporta un problema** creando un [issue](https://github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/issues).  
 2. **Proporciona mejoras** enviando un [pull request](https://github.com/aprendecloud/aprendecloud-gcp-cloud-digital-leader/pulls).  
-3. **Contacta directamente** para sugerencias o dudas a: **nicolas@obvio.tech**  
+3. **Contacta directamente** para sugerencias o dudas a: **hola@obvio.tech**  
 
 Tu participación es fundamental para mantener este recurso actualizado y útil para todos. 🚀☁
 
